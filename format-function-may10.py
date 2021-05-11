@@ -15,3 +15,6 @@ print("nice!")
 
 siblings = input("How many siblings do you have?")
 print("cool!")
+
+address = input("What is your address?")
+print("im coming to {}")
